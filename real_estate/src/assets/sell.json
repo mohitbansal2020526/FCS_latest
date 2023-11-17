@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Luxury Villa with Ocean View",
+      "description": "A luxurious villa with a breathtaking ocean view and a private pool.",
+      "images": [],
+      "location": "789 Seaside Road, Coastal City, State",
+      "price": 750000,
+      "seller": "user3_id",
+      "buyer": "user4_id",
+      "status": "sold",
+      "reports": [],
+      "dateOfListing": "2023-08-01",
+      "dateOfSale": "2023-08-15"
+    }
+  ]
+  

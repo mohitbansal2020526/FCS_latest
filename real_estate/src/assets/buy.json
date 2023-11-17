@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Cozy Apartment in Downtown",
+      "description": "A beautiful apartment in the heart of the city with stunning views.",
+      "images": [],
+      "location": "123 Main Street, City, State",
+      "price": 250000,
+      "seller": "user1_id",
+      "buyer": "user2_id",
+      "status": "sold",
+      "reports": [],
+      "dateOfListing": "2023-10-10",
+      "dateOfSale": "2023-10-20"
+    },
+    {
+      "title": "Spacious Family Home",
+      "description": "A spacious family home with a large backyard and modern amenities.",
+      "images": [],
+      "location": "456 Elm Avenue, Suburb, State",
+      "price": 350000,
+      "seller": "user2_id",
+      "buyer": "user3_id",
+      "status": "sold",
+      "reports": ["user4_id", "user5_id"],
+      "dateOfListing": "2023-09-15",
+      "dateOfSale": "2023-10-05"
+    }
+  ]
+  
